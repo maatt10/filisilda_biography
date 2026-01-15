@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matthew Brian C. Filisilda</h1>
 <h3 align="center">A passionate student developer</h3>
 
+- 🔭 I’m currently working on [Regis'Ta! School Registration System](https://github.com/maatt10/IT5-Regis-Ta-)
+
 - 🌱 I’m currently learning **Web-Development, UI/UX**
+
+- 👨‍💻 All of my projects are available at [https://github.com/maatt10](https://github.com/maatt10)
 
 - 📫 How to reach me **m.filisilda.557934@umindanao.edu.ph**
 
